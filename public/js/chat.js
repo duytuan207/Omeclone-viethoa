@@ -33,7 +33,7 @@
     };
     toastr.success(data.message);
     message.disabled = false;
-    message.placeholder = "Enter the message here...";
+    message.placeholder = "Nhập tin nhắn ở đây";
     message.focus();
     resetTimer();
   });
