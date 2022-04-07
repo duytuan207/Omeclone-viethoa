@@ -32,5 +32,5 @@ app.get('/chat', (req, res) => {
 });
 
 server.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+  console.log(`Server đang chạy ở cổng ${port}`);
 });
